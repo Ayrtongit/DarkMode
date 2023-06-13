@@ -1,9 +1,9 @@
 {
-  "author": "Leonardo Capone",
+  "author": "regino ayrton",
   "name": "button-dark-mode",
   "version": "1.0.0",
   "bugs": {
-    "url": "https://github.com/Esquiafo/DarkMode/issues"
+    "url": "https://github.com/Ayrtongit/DarkMode/"
   },
   "scripts": {
     "dev": "next dev",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Esquiafo/DarkMode"
+    "url": "https://github.com/Ayrtongit/DarkMode/"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Esquiafo/DarkMode",
+  "homepage": "https://github.com/Ayrtongit/DarkMode/",
   "dependencies": {
     "@next/font": "13.1.5",
     "@tailwindcss/typography": "^0.5.9",
